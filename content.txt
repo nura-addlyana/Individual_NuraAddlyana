@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Content</title>
+</head>
+<body>	
+<h2>
+	<a href="biodata.html"style="color:LightCoral;"target="right">Biodata</a>
+	<a href="experience.html"style="color:Olive;"target="right">Experience</a>
+	<a href="education.html"style="color:SlateGrey;"left="right">Education</a>
+	<a href="family.html"style="color:Sienna;"target="right">Family</a>
+	<a href="gallery.html"style="color:RebeccaPurple;"target="right">Gallery</a>
+	</h2>
+
+</body>
+</html>

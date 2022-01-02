@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Family</title>
+</head>
+<body>
+	<font size="10" face="lorem ipsum">
+		<h1 style="color:Sienna;"align= "center">My Average Family<h1></font>
+		<h2 style="color:Sienna;"align= "center">Beautiful Family,Beautiful Life!<h2>
+	<br><br>
+		<a href="biodata.html"style="color:LightCoral;">Biodata</a>
+		<a href="experience.html"style="color:Olive;">Experience</a>
+		<a href="education.html"style="color:SlateGrey;">Education</a>
+		<a href="family.html"style="color:Sienna;">Family</a>
+		<a href="gallery.html"style="color:RebeccaPurple;">Gallery</a>
+	<hr>
+	<font size="6" face="lorem ipsum">
+	<h2 align="justify"style="color:SaddleBrown;">My Family Members</h2>
+
+		<dl align="justify"style="color:Peru;">
+  			<dt>Father</dt>
+  			<dd>- Hassan bin Aripin</dd>
+  			<dt>Mother</dt>
+  			<dd>- Noriah binti Halim</dd>
+  			<dt>Older Sister</dt>
+  			<dd>- Nura Adilla binti Hassan</dd>
+  			<dt>Brother In Law</dt>
+  			<dd>- Ahmad Zamzuri bin Che Hat</dd>
+  			<dt>Nephew</dt>
+  			<dd>- Muhammad Asyraf Danial bin Ahmad Zamzuri</dd>
+  			<dt>Brother</dt>
+  			<dd>- Mohamad Khairil bin Hassan</dd>
+  			<dt>Me</dt>
+  			<dd>- Nura Addlyana binti Hassan</dd>
+  			<dt>Younger Sister</dt>
+  			<dd>- Nura Azlyani binti Hassan</dd>
+		</dl>
+    	<font size="6" face="lorem ipsum">
+    		<h3 style="color:SaddleBrown;"align= "center">Family</h3></font>
+    			<p style="color:Peru;"align= "center">I have not small family but not big either. I have a father, a mother, an older sister,her husband and their son, my older brother, myself and my younger sister. That makes eight of us.</p>
+     
+    	 <font size="6" face="lorem ipsum">
+     			<p style="color:SaddleBrown;"align= "center">My Father</p></font>
+     			<p style="color:Peru;"align= "center">My father's name is Hassan bin Aripin. He was born at his house in Kampung Bemban, Jitra, Kedah on 11th May 1966 . Thats makes him 56 years old. He is a police officer. He will have his pension this year in February. He likes to become friends with everyone. He looks intimidating to everyone including myself. He is friendly. However, you dont want to get into his nerve.</p>
+     
+     	<font size="6" face="lorem ipsum">
+     			<p style="color:SaddleBrown;"align= "center">My Mother</p></font>
+        		<p style="color:Peru;"align= "center">My mother's name is Noriah binti Halim. She was born at her house in Kampung Baru Merbau Pulas, Merbau Pulas, Kedah on 22nd October 1969. Thats makes her 53 years old. She is a housewife. However, she likes to help my father by sewing clothes. Unlike my father, my mother looks friendly but actually intimidating and scary. She is a savage. You dont want to mess with her.</p>
+     
+     	<font size="6" face="lorem ipsum">
+     			<p style="color:SaddleBrown;"align= "center">My Older Sister, her husband and son</p></font>
+        		<p style="color:Peru;"align= "center">My older sister's name is Nura Adilla binti Hassan. Her husband's name is Ahmad Zamzuri bin Che Hat. Their son's name is Muhammad Danial Asyraf bin Ahmad Zamzuri. My sister was born on 16th March 1992 at Hospital Sungai Petani, Kedah. She is 30 years old. Both my sister and her husband are currently waiting for their second child to be born this February. They got married back in 2018. My sister was the scary older sister that everyone have but actually really loving one. She always treat us siblings to a lot of thing. </p>  
+     
+     	<font size="6" face="lorem ipsum">
+     			<p style="color:SaddleBrown;"align="center">My Older Brother</p></font>
+       			<p style="color:Peru;"align= "center">My older brother's name is Mohamad Khairil bin Hassan. He was born at Hospital Sungai Petani as my older sister on 6th July 1995. Thats makes him 27 years old. He currently still studying by pursuing his master in music at University of Malaya. Unlike any others male sibling, he is the only one in the family. Thats why he is soft and understand more about girls. However, he is kind of annoying when he's mad.</p>
+     
+     	<font size="6" face="lorem ipsum">
+     			<p style="color:SaddleBrown;"align= "center">My Younger Sister</p></font>
+        		<p style="color:Peru;"align= "center">Lastly, my younger sister'name is Nura Azlyani binti Hassan. She was born at Hospital Taiping same as me on 16th October 2003. Thats make her 19 years old. She currently pursuing study in STPM. As the youngest, she basically stuck at home. She is much taller than me and my older sister. I like to annoy her just to get her reaction on it. Unlike my brother, she is the hard one maybe because she is still not mature yet.</p>
+        
+</body>
+</html>

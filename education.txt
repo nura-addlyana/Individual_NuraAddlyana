@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Education</title>
+</head>
+<body>
+	<font size="10" face="lorem ipsum">
+		<h1 style="color:SlateGrey;"align= "center">My Schools<h1></font>
+		<h2 style="color:SlateGrey;"align= "center">Education Information!<h2>
+	<br><br>
+		<a href="biodata.html"style="color:LightCoral;">Biodata</a>
+		<a href="experience.html"style="color:Olive;">Experience</a>
+		<a href="education.html"style="color:SlateGrey;">Education</a>
+		<a href="family.html"style="color:Sienna;">Family</a>
+		<a href="gallery.html"style="color:RebeccaPurple;">Gallery</a>
+	<hr>
+	<style>
+		table, th, td {border:1px solid black;}
+	</style>
+		<font size="6" face="lorem ipsum">
+		<h3 align="center"style="color:DimGray;">My Education in General</h2></font>
+
+		<table style="width:100%">
+
+  		<tr align="center"style="color:DimGray;">
+  			<td>2005-2006</td>
+    			<td>2006</td>
+    			<td>2007-2012</td>
+    			<td>2013</td>
+    			<td>2013-2015</td>
+    			<td>2016-2017</td>
+       
+  		</tr>
+  		<tr align="center"style="color:DimGray;">
+    			<td>Tadika Kemas</td>
+    			<td>Tadika Kifayah</td>
+    			<td>SK Sungai Karangan</td>
+    			<td>SMK Sultan Badlishah</td>
+    			<td>MRSM PDRM Kulim</td>
+    			<td>MRSM Tun Ghafar Baba</td>
+        
+  		</tr>
+		</table>
+   	<font size="6" face="lorem ipsum">
+    		<h4 style="color:DimGray;"align= "center">School Life</h4></font>
+    			<p style="color:LightSlateGray;"align= "center">I went to three different high schools. Firstly, SMK Sultan Badlishah for a month. I then attend MRSM PDRM Kulim for three years. Lastly, I was transferred to MRSM Tun Ghafar Baba. Eventhough i spend my high school time away from my family, i still enjoy every second of it.</p>
+     
+     	<font size="6" face="lorem ipsum">
+     		<p style="color:DimGray;"align= "center">SMK Sultan Badlishah</p></font>
+     			<p style="color:LightSlateGray;"align= "center">I dont really have much to tell about this school. It is a big school with large scale of students to the point that students have to share classroom with seniors. There are two time schedule where the upper students go to school in the morning while the lower go to school at the afternoon.	I stay in the dormitory during my time there. The food was good. The dormitory was kind of nice maybe. Well its not really awkward because i have friends from the previous school with me. At that time i was hoping to be transferred to MRSM so bad because i dont really like the environment and there are way too many students there.</p>
+     
+     	<font size="6" face="lorem ipsum">
+     		<p style="color:DimGray;"align= "center">MRSM PDRM Kulim</p></font>
+        		<p style="color:LightSlateGray;"align= "center">I was so relieved when i got transferred here. The school located inside the police batalion. The best part of this school is the dormitory. Might i tell you it is different from other MRSM or schools out there. This is because the students live or stay in an apartment like dorm instead of the regular dormitory. In an apartment, there are four rooms, two students each. The last room is kind of small so only one student stay there. There are living room, a shower room, a toilet, a kitchen and also a balcony. This happen because the schools decided to take 10 blocks of the batalion resident and change it to students dorm. Everything is great about the school such as the food was magnificent, the friends, teachers and all sort of things were all great. One thing i dislike is the distance between the dormitory to schools. Guess what? It is about 1 km walking distance and i hate it.</p>
+     
+     	<font size="6" face="lorem ipsum">
+     		<p style="color:DimGray;"align= "center">MRSM Tun Ghafar Baba</p></font>
+         		<p style="color:LightSlateGray;"align= "center">In 2016, I was transferred to this school. Unlike my previous schools, this school is one of the top school in Malaysia. The environment is very different. All of the students there were more focussed in studying. Believe it or not, every single room in the dormitory will have at least one student studying. Everyone was attached to the book. Even when we go to sport tournament, we still carried book to it. I love this school because it made me study more because of the environment. However, there were less entertainment there because we need to reach the expectation of becoming the top school in our country. I still love this school the most.</p>  
+        
+           	
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Experience</title>
+</head>
+<body>
+	<font size="10" face="lorem ipsum">
+		<h1 style="color:Olive;"align= "center">My Experience<h1></font>
+		<h2 style="color:Olive;"align= "center">My Not So Exciting Experience!<h2>
+	<br><br>
+		<a href="biodata.html"style="color:LightCoral;">Biodata</a>
+		<a href="experience.html"style="color:Olive;">Experience</a>
+		<a href="education.html"style="color:SlateGrey;">Education</a>
+		<a href="family.html"style="color:Sienna;">Family</a>
+		<a href="gallery.html"style="color:RebeccaPurple;">Gallery</a>
+	<hr>
+   	 <font size="6" face="lorem ipsum">
+    		<h3 style="color:DarkOliveGreen;"align= "center">The Scary Part of Boarding School Life</h3></font>
+    			<p style="color:YellowGreen;"align= "center">I was in boarding schools from when I'm 13 years old to 17 years old. I went to three boarding schools which were <a href="https://mysmksb.tripod.com/iewebpgs/mulakan.html"style="color:DarkOrange;">SMK Sultan Badlishah</a> for about a month. Then, I attend <a href="http://mrsmpdrmkulim.blogspot.com/"style="color:DodgerBlue;">MRSM PDRM Kulim</a> until the age of 16 where I got transferred to <a href="http://tgb.mrsm.edu.my/"style="color:Teal;">MRSM Tun Ghafar Baba</a>. As you can tell, my life can be either boring or interesting. I choose to believe that it's both. The similarity that I can point out from these three schools is each one of them have their own haunted story.</p>
+     
+     	<font size="6" face="lorem ipsum">
+     		<h4 style="color:DarkOliveGreen;"align= "center">SMK Sultan Badlishah</h4></font>
+     			<p style="color:YellowGreen;"align= "center">As I told you before, I attend this school for about a month only. Well, I don't want to tell you the stories that I have heard from the seniors but rather tell you the one that I had experienced it myself. As usual, the lights have to be off at 11 pm if I'm not mistaken. My bed is at the center of the dorm and we have double decker bed. Unfortunately for me, I have to sleep on the upper part of the bed. I don't really mind, however,at 3 am in the morning, I woked up because I have to go to toilet. Usually, I will woken up my friends and ask them to accompany me. This time I did not woke any of them because I did not know them really well. Well, its only a month I have been there. So I got up and put a towel on my head to cover my hair because the female dormitory is the opposite from the male dormitory. I dont want to risk it. So, I rushed to the toilet and do my thing. I proceed to wash my hand and when I look at the mirror in front of me, I saw this ugly looking thing staring right back at me through the mirror. You can tell how scared I am at the time. I ran away from the toilet to my dorm at the speed of lightning and covered myself with the blanket from head to toe. It was so terrifying that i got a fever on the next day.</p>
+        
+	<font size="6" face="lorem ipsum">
+        	<h5 style="color:DarkOliveGreen;"align= "center">MRSM PDRM Kulim</h5></font>
+        		<p style="color:YellowGreen;"align= "center">After a month, I am gladly leaving that school. I went to MRSM PDRM after that. I have the time of my life there, for sure. It was so fun there with my friends. Although it also have it own scary experience. There was a story that have been told by the students there that at this one exact date for every leap year, all of the batalion have to stay at their home well in my case our room and dont go out until the next morning. I forgot to mention that the MRSM is located in the police batalion. It is rumored that the night of the date, if you dont sleep before midnight, you can hear a loud sound of people marching around. However, the voice of the sound are so similar with japanese language. At first i was thinking that this is all just a myth or some kind of stupid school scary story. However, when the times come, there was an announcement from the batalion speakers reminding people to stay in their house. I thought the batalion was about to be attacked or something. So everyone follow the instruction. We were told to sleep early but I was one of the students who are curious about it so stay up. This is we it got creepy as my roommate already sound asleep, I was tossing in bed and suddenly i heard the sound of people marching so loud in japanese. Only God knows how scared i am at that time. I closed my eyes and forced myself to sleep at that night.</p>
+         
+        <font size="10" face="lorem ipsum">
+         	<h6 style="color:DarkOliveGreen;"align= "center">MRSM Tun Ghafar Baba</h6></font>
+         		<p style="color:YellowGreen;"align= "center">Not to be bias but I am. This is the best school out of this three. However, it also have me scared to death again. However, this time it might be my fault all along. This happened back when we were taking trial examination for SPM. I took accounting course which is the one that have less people. Basically, everyone already been sleeping that night except a few of students who took accounting subject. I stayed up with my friend from the next room in my room. We have been studying for a while until a small lizard fall from the ceiling of the room onto my bed. We ran away and decided to study at the chairs outside the room. There were only two of us at the time. Mind you that the dormitory have second level where the younger students stay. However, at the time it was unoccupied because of its the time of the holiday for them. So it was kind of creepy. I was at fault for this because when we were studying, everything is fine. Suddenly i decided to say to my friend, well more like bragging that its not scary at all to study here at this time. We both were bragging about it when suddenly I caught something from the corner of my eyes. There are this one thing that look like a human being but does not at the same time walking out from the toilet to the store next to it. At first i thought that it was one of the students there. After waiting for a while, there is no one coming out from the store. And then we started to get the chills and just run straight to our room. We went to sleep right away and i always remind myself not to brag about any of these anymore.</p>  
+        
+        
+                   	
+</body>
+</html>

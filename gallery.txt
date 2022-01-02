@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Gallery</title>
+</head>
+<body>
+	<font size="10" face="lorem ipsum">
+	<h1 style="color:RebeccaPurple;"align= "center">My Personal Album<h1></font>
+	<h2 style="color:RebeccaPurple;"align= "center">Sneak Peak into My Gallery<h2>
+	<br><br>
+	<a href="biodata.html"style="color:LightCoral;">Biodata</a>
+	<a href="experience.html"style="color:Olive;">Experience</a>
+	<a href="education.html"style="color:SlateGrey;">Education</a>
+	<a href="family.html"style="color:Sienna;">Family</a>
+	<a href="gallery.html"style="color:RebeccaPurple;">Gallery</a>
+	<hr>
+	<center>
+	<p style="color:RebeccaPurple;"align= "center">My Familia<p>
+	<img src="family2.jpg">
+		<p>This was taken back when my brother graduated for his Degree in Music at UiTM Shah Alam</p>
+    	<img src="family3.jpg">
+		<p>This is my grandpa and my older sister and brother back then. Unfortunately, I don't have any picture with him. :(</p>
+    	<img src="family5.jpg">
+		<p>This is my dad and my mom taking a formal picture after a police event.</p>
+    	<img src="family6.jpg">
+		<p>This is another picture when my brother graduated. My father taught he looks young with glasses.</p>
+    	
+	<p style="color:RebeccaPurple;"align= "center">My Friends<p>
+	<img src="friend.jpg">
+		<p>This was taken few days maybe after we started class back in Semester 1. Good old days.</p>
+	<img src="friend2.jpg">
+		<p>Apparently we supposed to match with blue here. I don't know what happen but I had fun.</p>
+	<img src="friend3.jpg">
+		<p>This is the semi-formal picture of the previous picture. I don't know what I'm talking about.</p>
+	<img src="friend4.jpg">
+		<p>This was after an event at the field of UiTM Merbok. I don't really know what happens there.</p>
+    	<img src="friend5.jpg">
+		<p>This was when we went to Pantai Merdeka on weekend. It was very memorable.</p>
+	</center>
+	
+</html>
